@@ -28,10 +28,6 @@ window/size/resizable=false
 
 project/assembly_name="GodotInk"
 
-[editor_plugins]
-
-enabled=PackedStringArray("res://addons/GodotInk/plugin.cfg")
-
 [filesystem]
 
 import/blender/enabled=false
